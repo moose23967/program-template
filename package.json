@@ -1,6 +1,6 @@
 {
   "name": "@moose23967/program-template",
-  "module": "src/main.ts",
+  "module": "sources/main.ts",
   "type": "module",
   "devDependencies": {
     "@biomejs/biome": "^1.9.0",
@@ -10,6 +10,6 @@
     "typescript": "^5.0.0"
   },
   "scripts": {
-    "start": "bun run src/main.ts"
+    "start": "bun run sources/main.ts"
   }
 }
