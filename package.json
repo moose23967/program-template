@@ -1,5 +1,5 @@
 {
-  "name": "template",
+  "name": "program-template",
   "module": "src/main.ts",
   "type": "module",
   "devDependencies": {
